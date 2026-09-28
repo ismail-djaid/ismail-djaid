@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Ismail 👋
 
-<!--
-**ismail-djaid/ismail-djaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Marketing & Data Analytics
 
-Here are some ideas to get you started:
+I have a background in digital marketing and marketing analytics and am currently developing my skills in data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on combining **marketing, business understanding and data analysis** to make data-driven decisions.
+
+---
+
+## 🛠 Tech Stack
+
+**Data Analytics**
+- SQL / PostgreSQL
+- Python
+- Pandas
+- NumPy
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+**Marketing & Business Analytics**
+- Digital Marketing
+- Performance Marketing
+- Marketing Analytics
+- Web Analytics
+- Funnel Analysis
+- CAC / CPL / ROI / ROAS
+- CTR / CPC / CPM / CPA / Conversion Rate
+
+---
+
+## 📊 Portfolio Projects
+
+### 🎮 Video Games Data Analysis — Python
+
+Exploratory data analysis of video game sales using Python, Pandas and data visualization.
+
+**Skills:** Python • Pandas • NumPy • Matplotlib • EDA • Data Cleaning
+
+[View Project](https://github.com/ismail-djaid/video-games-data-analysis)
+
+---
+
+### 🗄 Video Games Data Analysis — SQL
+
+SQL analysis of video game sales using PostgreSQL.
+
+The project demonstrates data aggregation, filtering, CASE expressions and window functions.
+
+**Skills:** SQL • PostgreSQL • GROUP BY • HAVING • CASE • ROW_NUMBER • Window Functions
+
+[View Project](https://github.com/ismail-djaid/sql-data-analysis)
+
+---
+
+### 📈 Video Games Dashboard — Power BI
+
+Interactive dashboard for analyzing global video game sales by platform, genre, region and year.
+
+**Skills:** Power BI • DAX • Power Query • Data Visualization • Dashboard Development
+
+[View Project](https://github.com/ismail-djaid/video-games-power-bi)
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Analytics
+- Marketing Analytics
+- Product Analytics
+- Growth Analytics
+- Performance Marketing
+- AdTech
+
+---
+
+## 📫 Contact
+
+**GitHub:** [github.com/ismail-djaid](https://github.com/ismail-djaid)
