@@ -1,71 +1,90 @@
-# Hi, I'm Ismail 👋
+# 👋 Привет, я Исмаил
 
-### Marketing & Data Analytics
+### Data Analytics • Marketing Analytics • Product Analytics
 
-I have a background in digital marketing and marketing analytics and am currently developing my skills in data analytics.
+Я специалист с опытом в **digital- и performance-маркетинге**, развивающийся в направлении аналитики данных.
 
-My focus is on combining **marketing, business understanding and data analysis** to make data-driven decisions.
+Мой основной интерес — сочетание **анализа данных, маркетинга и понимания бизнеса** для поиска точек роста и принятия решений на основе данных.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Технологический стек
 
-**Data Analytics**
-- SQL / PostgreSQL
-- Python
-- Pandas
-- NumPy
-- Power BI
-- DAX
-- Power Query
-- Excel
+### 📊 Data Analytics
 
-**Marketing & Business Analytics**
-- Digital Marketing
-- Performance Marketing
+- **SQL:** PostgreSQL
+- **Python:** Pandas, NumPy, Matplotlib
+- **Power BI:** Power Query, DAX, Data Modeling
+- **Excel:** Pivot Tables, SUMIFS, XLOOKUP/VLOOKUP
+- **Jupyter Notebook**
+- **DBeaver**
+
+### 📈 Marketing & Growth Analytics
+
 - Marketing Analytics
-- Web Analytics
+- Performance Marketing
 - Funnel Analysis
-- CAC / CPL / ROI / ROAS
-- CTR / CPC / CPM / CPA / Conversion Rate
+- AARRR
+- A/B Testing
+- CAC / CPL / CPA
+- ROAS / ROI
+- CTR / CPC / CPM / CVR
+- Google Ads
+- Meta Ads
+- TikTok Ads
 
 ---
 
-## 📊 Portfolio Projects
+# 🚀 Портфолио
 
-### 🎮 Video Games Data Analysis — Python
+## 🎮 Анализ продаж видеоигр | Python • SQL • Power BI
 
-Exploratory data analysis of video game sales using Python, Pandas and data visualization.
+Комплексный проект по анализу данных о мировых продажах видеоигр.
 
-**Skills:** Python • Pandas • NumPy • Matplotlib • EDA • Data Cleaning
+В рамках проекта выполнен полный цикл анализа:
 
-[View Project](https://github.com/ismail-djaid/video-games-data-analysis)
+**Данные → Data Cleaning → EDA → SQL Analysis → Power BI Dashboard → Insights**
+
+### 🐍 Python
+
+Использовал **Pandas, NumPy и Matplotlib** для:
+
+- очистки и подготовки данных;
+- обработки пропущенных значений;
+- исследовательского анализа (EDA);
+- анализа продаж по платформам, жанрам, регионам и годам;
+- визуализации результатов.
+
+### 🗄 SQL / PostgreSQL
+
+Выполнил аналитические запросы с использованием:
+
+`GROUP BY` • `HAVING` • `CASE` • `Subqueries` • `ROW_NUMBER()` • `PARTITION BY` • `Window Functions`
+
+### 📊 Power BI
+
+Создал интерактивный дашборд для анализа:
+
+- глобальных продаж;
+- игровых платформ;
+- жанров;
+- динамики продаж;
+- региональных различий;
+- оценок критиков.
+
+Использовал:
+
+`Power Query` • `DAX` • `Data Modeling` • `KPI` • `Interactive Dashboard`
+
+### 🔗 Проект
+
+👉 [Посмотреть проект](https://github.com/ismail-djaid/video-games-data-analysis)
 
 ---
 
-### 🗄 Video Games Data Analysis — SQL
+## 💼 Профессиональные направления
 
-SQL analysis of video game sales using PostgreSQL.
-
-The project demonstrates data aggregation, filtering, CASE expressions and window functions.
-
-**Skills:** SQL • PostgreSQL • GROUP BY • HAVING • CASE • ROW_NUMBER • Window Functions
-
-[View Project](https://github.com/ismail-djaid/sql-data-analysis)
-
----
-
-### 📈 Video Games Dashboard — Power BI
-
-Interactive dashboard for analyzing global video game sales by platform, genre, region and year.
-
-**Skills:** Power BI • DAX • Power Query • Data Visualization • Dashboard Development
-
-[View Project](https://github.com/ismail-djaid/video-games-power-bi)
-
----
-
-## 🎯 Areas of Interest
+Интересуюсь развитием в направлениях:
 
 - Data Analytics
 - Marketing Analytics
@@ -74,8 +93,23 @@ Interactive dashboard for analyzing global video game sales by platform, genre, 
 - Performance Marketing
 - AdTech
 
+Особенно интересны задачи на пересечении **данных, продукта и маркетинга**.
+
 ---
 
-## 📫 Contact
+## 🎯 Сейчас развиваю
 
-**GitHub:** [github.com/ismail-djaid](https://github.com/ismail-djaid)
+- продвинутый SQL;
+- Python для анализа данных;
+- Power BI и DAX;
+- продуктовые метрики;
+- маркетинговую и growth-аналитику;
+- A/B-тестирование.
+
+---
+
+## 📫 Контакты
+
+**GitHub:** [ismail-djaid](https://github.com/ismail-djaid)
+
+**Location:** Almaty, Kazakhstan
